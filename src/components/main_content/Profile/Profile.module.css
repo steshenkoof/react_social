@@ -1,0 +1,20 @@
+.img_cover {
+  border-radius: 10px;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+}
+
+.about_img_icon {
+  padding-top: 10px;
+  border-radius: 50px;
+}
+
+.about_img_icon + .about_text {
+  margin-left: 0.5em;
+}
+
+

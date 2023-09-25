@@ -3,7 +3,7 @@ import s from './Footer.module.css'
 
 export const Footer = () => {
   return (
-    <div>
+    <div className={s.footer}>
       <h3>Связь со мной</h3>
         
         <a href='https://vk.com/id706936754'><img

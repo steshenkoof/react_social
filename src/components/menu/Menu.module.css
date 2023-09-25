@@ -1,1 +1,11 @@
+.nav__img {
+    padding-right: 10px;
+  }
 
+nav {
+    grid-area: nav;
+    background-color: rgb(116, 114, 117);
+    list-style: none;
+    color: aliceblue;
+      padding-left: 30px;
+  }

@@ -1,6 +1,7 @@
-header {
+.header {
   grid-area: header;
   background-color: rgb(3, 3, 3);
   padding-left: 30px;
 }
+
 

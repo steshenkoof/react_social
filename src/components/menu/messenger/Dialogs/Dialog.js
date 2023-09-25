@@ -1,10 +1,8 @@
-import React from 'react'
-import s from './Dialog.module.css'
+import React from "react";
+import s from "./Dialog.module.css";
 
- const Dialog = () => {
-  return (
-    <div>Dialog</div>
-  )
-}
+const Dialogs = () => {
+  return <div>Привет мир как дела?</div>;
+};
 
-export default Dialog;
+export default Dialogs;
